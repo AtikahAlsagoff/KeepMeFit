@@ -1,0 +1,74 @@
+/*@import url(https://fonts.googleapis.com/css2?family=Roboto&family=Zilla+Slab&display=swap);
+body{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/rd.jpg)
+    ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    width: 80%;
+    position: relative;
+    border: 10px solid #fff;
+    font-family: source sans Pro, sans-serif;
+    padding:20px;
+    margin:20px auto;
+    max-width: 700px;
+}
+.blog{
+    margin-bottom: 200px;
+}
+.head{
+    color:#fff;
+    letter-spacing: uppercase;
+    font-weight: 500;
+    font-size: 55px;
+}
+.paragraph{
+    border-left: 5px solid #86BBD8;
+    padding-left: 5px;
+}
+.h2{
+    font-size: 2.0rem;
+}
+.hr{
+    border:0;
+    height: 0;
+    border-top: 1px solid #fff;
+    border-bottom:1px solid #fff;
+}
+p{
+    color:#fff;
+    font-weight: 400;
+}
+.btn{
+    width: 200px;
+    height: 40px;
+    background: #fff;
+    border: 2px solid #fff;
+    margin-top: 13px;
+    color: #fff;
+    text-align: center;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+
+.btn:focus{
+    outline: none;
+}
+.btn-white{
+    display: inline-block;
+    text-decoration: none;
+    color: #000;
+    background-color: #5088B9;
+    border-color: #fff;
+    border-radius: 10px;
+    margin-bottom: 5%;
+    padding: 3px 9px;
+    box-sizing: border-box;
+}
+.btn-white:hover{
+    transition: background-color .5s;
+    box-shadow: 0 0 13px 0px #85BCFF;
+}
+*/

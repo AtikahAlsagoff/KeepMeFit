@@ -1,0 +1,52 @@
+body{
+    min-height: 100vh;
+    background-image: linear-gradient(rgba(4,9,30,0.7),rgba(4,9,30,0.7)),url(images/side.jpg)
+    ;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    width: 80%;
+    position: relative;
+    border: 10px solid #A6777B;
+    font-family: source sans Pro, sans-serif;
+    padding:20px;
+    margin:20px auto;
+    max-width: 700px;
+}
+.blog{
+    margin-bottom: 200px;
+}
+.head{
+    color:#fff;
+    letter-spacing: uppercase;
+    font-weight: 500;
+    font-size: 55px;
+}
+.paragraph{
+    border-left: 5px solid #D34F73;
+    padding-left: 5px;
+}
+.text {
+    text-align: justify;
+}
+figcaption {
+    color: #fff;
+    text-align: center;
+    font-style: italic;
+    font-variant: small-caps;
+    
+}
+a:link {
+    text-decoration: none;
+  }
+hr{
+    display: block; height: 1px;
+    border: 0; border-top: 1px solid #DBBEA1;
+    margin: 1em 0; padding: 0; 
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+  }
